@@ -12,8 +12,7 @@
 </div>
 
 ##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=13bw&bg_color=red&color=#A020F0&line=#A020F0&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=13bw&bg_color=red&color=#A020F0&line=#A020F0&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My range of skills:
 
