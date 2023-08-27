@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#A020F0E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=13bw&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -12,7 +12,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=13bw&bg_color=red&color=#A020F0&line=#A020F0&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lennon github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=13bw&bg_color=red&color=#A020F0&line=#A020F0&point=f1f5f9&area=true&hide_border=true)]
 
 ### My range of skills:
 
@@ -23,3 +23,5 @@
   <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
