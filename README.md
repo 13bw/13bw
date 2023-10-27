@@ -2,12 +2,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=13bw&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=13bw&theme=ice&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
 </p>
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=13bw&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=c9d1d9"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=13bw&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=A020F0&text_color=000000"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13bw&layout=compact&hide_border=true&title_color=A020F0&text_color=020F0" />
 </div>
 
